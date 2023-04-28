@@ -1,6 +1,6 @@
 ## Demo
 
-https://netflix-clone-e23d2.web.app/
+https://netflix-clone-project-8b8b7.web.app/
 
 ##
 
